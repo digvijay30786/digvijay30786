@@ -21,7 +21,7 @@
 <!-- - 🔭 I’m looking for job. -->
 - 📫 How to reach me: dig30786@gmail.com
 - 📫 My Portfolio: [https://digvijay30786.github.io/protfolio](https://digvijay30786.github.io/protfolio)
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1uAUK-HoSkIeC5QfdDo4fYParMyPcDdmC/view?usp=sharing)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1ODh_GiHsoWXPllmcHgeiY0lv_SB_JvTO/view?usp=sharing)
 - 💬 Ask me about anything, I am happy to help;
 
 ### Skills
