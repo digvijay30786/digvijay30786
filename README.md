@@ -32,7 +32,7 @@
 
 
 
-<img alt="Suhail's github stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=suhailmalik07&show_icons=true&hide_border=true" />
+<img alt="Suhail's github stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=digvijay30786&show_icons=true&hide_border=true" />
 
 
-<img alt="Suhail's github langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailmalik07&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&hide_border=true" />
+<img alt="Suhail's github langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay30786&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&hide_border=true" />
