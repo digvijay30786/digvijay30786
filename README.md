@@ -1,16 +1,13 @@
 ### Hi 👋, I'm Digvijay Singh , a Full Stack Web Developer 
 
-<a href='https://www.linkedin.com/in/suhail-malik/' target='_blank'>
+<a href='https://www.linkedin.com/in/digvijay-singh-5882b0169' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
 </a>
-<a href='https://twitter.com/maliksuhail07' target='_blank'>
+<a href='https://twitter.com/Digvija05786326' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/twitter.svg' width='24px' />
 </a>
-<a href='https://github.com/suhailmalik07' target='_blank'>
+<a href='https://github.com/digvijay30786' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/github.svg' width='24px' />
-</a>
-<a href='https://medium.com/@suhailmalik8057' target='_blank'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/medium.svg' width='24px' />
 </a>
 
 ### About Me
