@@ -4,7 +4,7 @@
 ### About Me
 <!-- Currently, I'm learning MERN Stack Development at [masai school](https://www.masaischool.com/). -->
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://imgur.com/sFZ80ow.gif" />
 
 <!-- - 🔭 I’m looking for job. -->
 - 📫 How to reach me: dig30786@gmail.com
