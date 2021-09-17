@@ -15,7 +15,7 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijay30786&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay30786" /> </p>
 
 :mailbox: Reach me out!
 
