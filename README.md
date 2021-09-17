@@ -12,6 +12,11 @@
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1ODh_GiHsoWXPllmcHgeiY0lv_SB_JvTO/view?usp=sharing)
 - 💬 Ask me about anything, I am happy to help;
 
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Digvijay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Digvija05786326)](https://twitter.com/Digvija05786326) [![Linkedin Badge](https://img.shields.io/badge/-digvijay-5882b0169?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digvijay-singh-5882b0169)[![Mail Badge](https://img.shields.io/badge/-dig30786@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dig30786@gmail.com)
